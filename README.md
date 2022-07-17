@@ -3,4 +3,4 @@
 
 영화
 
-![조제](./images/IMG_5111.jpg)
+![조제](./images/IMG_5111.JPG)
